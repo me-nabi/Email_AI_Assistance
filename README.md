@@ -11,6 +11,11 @@ Email AI Assistance is an intelligent, open-source tool designed to help users a
 - **Customizable Rules & Integrations:** Easily tailor the tool for specific workflows and popular email providers (Gmail, Outlook, etc.).
 
 ## Screenshots
+![WhatsApp Image 2025-08-11 at 01 35 05_64984ed2](https://github.com/user-attachments/assets/ba4a5651-65a8-402a-b534-8c5faae1bdba)
+![WhatsApp Image 2025-08-11 at 01 35 06_74af8cf9](https://github.com/user-attachments/assets/cc772251-ede9-4ee2-beda-bf1a4c1a3501)
+![WhatsApp Image 2025-08-11 at 01 35 06_81db3040](https://github.com/user-attachments/assets/db451eee-85cf-42f6-858d-2bcd3ac2497e)
+
+
 
 <!-- Add screenshots of the application here -->
 <!-- Example: -->
@@ -18,7 +23,8 @@ Email AI Assistance is an intelligent, open-source tool designed to help users a
 
 ## Demo Video
 
-<!-- Add a link to your demonstration video here -->
+https://github.com/user-attachments/assets/e073c354-e280-4560-b1e6-f7df7e577530
+
 <!-- Example: [Watch Demo](https://youtu.be/your-demo-video-url) -->
 
 ## Getting Started
